@@ -1,5 +1,5 @@
-# my_repository
-Me first repository with udemy
+# my verry first repo
+Badriddin is the good guy
 
 That was changed by pc
 
